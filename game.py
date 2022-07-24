@@ -1,7 +1,7 @@
 
 from random import choice
 from time import sleep
-Words = ['TERNO', 'PRETO', 'BOIAS', 'CAGAR', 'FUNDO', 'BANDA', 'QUERO', 'TERMO', ]
+Words = ['TERNO', 'PRETO', 'BOIAS', 'CAGAR', 'FUNDO', 'BANDA', 'QUERO', 'TERMO' 'DUNAS', ]
 
 def runGame():
     tries = 0
